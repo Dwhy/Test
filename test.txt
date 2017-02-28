@@ -1,4 +1,8 @@
 this is first test
 this is second test
 this is miaomiaomiao
+<<<<<<< HEAD
 this is loloda loloda
+=======
+this is dadalo dadalo
+>>>>>>> origin/master
